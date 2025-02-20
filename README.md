@@ -84,6 +84,3 @@
 - **Memory & CPU Optimization**: Track **resource utilization** and implement **performance optimizations**.
 - **Containerization**: Deploy as a **Docker container**, ensuring portability and reproducibility.
 - **Kubernetes Deployment**: Run in **Kubernetes**, ensuring high availability and **automatic restarts on failures**.
-
-### System Block Diagram
-
